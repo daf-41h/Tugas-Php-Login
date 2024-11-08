@@ -38,8 +38,7 @@ CREATE TABLE `tbl_users` (
 --
 
 INSERT INTO `tbl_users` (`id`, `username`, `password`) VALUES
-(1, 'SyhrlmyZID', 'pass123'),
-(2, 'Dafa', 'pass123');
+(1, 'SyhrlmyZID', 'pass123');
 
 --
 -- Indexes for dumped tables
